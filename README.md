@@ -10,7 +10,7 @@
 
 \- Скриншот:
 
-![1](screenshots/Снимок экрана 2025-11-14 163605.png)
+![1](screenshots/19.png)
 
 ```
 
@@ -34,7 +34,7 @@
 
 
 
-![2](screenshots/Снимок экрана 2025-11-13 223323.png)
+![2](screenshots/1.png)
 
 - Команды:
 
@@ -58,7 +58,7 @@ git config --global user.email "ibraevnurlanovich@gmail.com"
 
 \- Скриншот:
 
-![3](screenshots/Снимок экрана 2025-11-13 223505.png)
+![3](screenshots/2.png)
 
 \- Команды:
 
@@ -88,7 +88,7 @@ cd LR6
 
 \- Скриншот:
 
-![4](screenshots/Снимок экрана 2025-11-13 223823.png)
+![4](screenshots/3.png)
 
 \- Команды:
 
@@ -114,13 +114,13 @@ git pull
 
 \- Скриншот:
 
-![5.1](screenshots/Снимок экрана 2025-11-13 223918.png)
+![5.1](screenshots/5.png)
 
-![5.2](screenshots/Снимок экрана 2025-11-13 224008.png)
+![5.2](screenshots/6.png)
 
-![5.3](screenshots/Снимок экрана 2025-11-13 224029.png)
+![5.3](screenshots/7.png)
 
-![5.4](screenshots/Снимок экрана 2025-11-13 224050.png)
+![5.4](screenshots/8.png)
 
 \- Команды:
 
@@ -152,7 +152,7 @@ git branch -a
 
 \- Скриншот:
 
-![6](screenshots/Снимок экрана 2025-11-13 224131.png)
+![6](screenshots/9.png)
 
 \- Команды:
 
@@ -182,9 +182,9 @@ git diff master branch1
 
 \- Скриншот:
 
-![7.1](screenshots/Снимок экрана 2025-11-13 224534.png)
+![7.1](screenshots/11.png)
 
-![7.2](screenshots/Снимок экрана 2025-11-13 224246.png)
+![7.2](screenshots/10.png)
 
 \- Команды:
 
@@ -216,7 +216,7 @@ git commit -m "Разрешён конфликт при слиянии branch1 �
 
 \- Скриншот:
 
-![8](screenshots/Снимок экрана 2025-11-13 225104.png)
+![8](screenshots/13.png)
 
 \- Команды:
 
@@ -244,7 +244,7 @@ git branch -d branch1
 
 \- Скриншот:
 
-![9](screenshots/Снимок экрана 2025-11-13 225625.png)
+![9](screenshots/13.png)
 
 \- Команды:
 
@@ -284,7 +284,7 @@ git commit -m "Дополнен newfile.txt"
 
 \- Скриншот:
 
-![10](screenshots/Снимок экрана 2025-11-13 225825.png)
+![10](screenshots/16.png)
 
 \- Команды:
 
@@ -308,7 +308,7 @@ git reset --soft HEAD~1
 
 \- Скриншот:
 
-![11](screenshots/Снимок экрана 2025-11-13 225910.png)
+![11](screenshots/17.png)
 
 \- Команды:
 
@@ -332,7 +332,7 @@ git checkout -b report
 
 \- Скриншот:
 
-![12](screenshots/Снимок экрана 2025-11-13 225940.png)
+![12](screenshots/18.png)
 
 \- Команды:
 
