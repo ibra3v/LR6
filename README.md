@@ -12,7 +12,6 @@
 
 ![1](screenshots/19.png)
 
-```
 
 
 
@@ -43,10 +42,8 @@
 git config --global user.name "4416 Ибраев А.Н"
 
 git config --global user.email "ibraevnurlanovich@gmail.com"
-
-```
-
 ---
+```
 
 
 
